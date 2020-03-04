@@ -1,0 +1,16 @@
+"","Dataset","Frame","Synthesized.View","X.passes","WS.PSNR","CEL","theo_time","p1","p2","p3","V1","V2","V3","V4","V5","V6","V7"
+"1","TechnicolorHijack",50,0,1,1,-19,1,1,0,0,8,9,1,4,5,2,3
+"2","TechnicolorHijack",50,6,1,1,-19,1,1,0,0,9,5,1,4,2,3,8
+"3","TechnicolorHijack",50,7,1,1,-19,1,1,0,0,9,8,2,3,1,4,5
+"4","TechnicolorHijack",100,0,1,1,-19,1,1,0,0,8,9,1,4,5,2,3
+"5","TechnicolorHijack",100,6,1,1,-19,1,1,0,0,9,5,1,4,2,3,8
+"6","TechnicolorHijack",100,7,1,1,-19,1,1,0,0,9,8,2,3,1,4,5
+"7","TechnicolorHijack",150,0,1,1,-19,1,1,0,0,8,9,1,4,5,2,3
+"8","TechnicolorHijack",150,6,1,1,-19,1,1,0,0,9,5,1,4,2,3,8
+"9","TechnicolorHijack",150,7,1,1,-19,1,1,0,0,9,8,2,3,1,4,5
+"10","TechnicolorHijack",200,0,1,1,-19,1,1,0,0,8,9,1,4,5,2,3
+"11","TechnicolorHijack",200,6,1,1,-19,1,1,0,0,9,5,1,4,2,3,8
+"12","TechnicolorHijack",200,7,1,1,-19,1,1,0,0,9,8,2,3,1,4,5
+"13","TechnicolorHijack",250,0,1,1,-19,1,1,0,0,8,9,1,4,5,2,3
+"14","TechnicolorHijack",250,6,1,1,-19,1,1,0,0,9,5,1,4,2,3,8
+"15","TechnicolorHijack",250,7,1,1,-19,1,1,0,0,9,8,2,3,1,4,5
